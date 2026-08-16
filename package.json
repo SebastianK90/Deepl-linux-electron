@@ -2,13 +2,13 @@
   "author": "kumakichi",
   "description": "DeepL Integration for Linux",
   "devDependencies": {
-    "electron": "^33.3.2",
+    "electron": "^42.9.1",
     "electron-builder": "^26.0.0",
     "electron-webpack": "^2.8.2",
     "webpack": "^4.47.0"
   },
   "name": "Deepl-Linux-Electron",
-  "version": "1.6.1",
+  "version": "1.6.2",
   "scripts": {
     "dev": "electron-webpack dev",
     "compile": "electron-webpack",
